@@ -1,4 +1,5 @@
-Práctica: Implementación del Algoritmo de Ordenamiento por Burbuja
+## Práctica: Implementación del Algoritmo de Ordenamiento por Burbuja
+
 Alumno: Mariem Cristina Garcia Lopez
 
 Repositorio correspondiente a la Unidad 5 de la asignatura Estructura de Datos
@@ -30,8 +31,11 @@ Programa desarrollado en Java que implementa el algoritmo clásico de ordenamien
 Al ejecutar el programa, se mostrará en pantalla tanto el arreglo original desordenado como el arreglo resultante ya ordenado de forma ascendente:
 
 Arreglo original:
+
 [6, 1, 5, 8, 3, 2, 7, 4]
+
 Arreglo ordenado:
+
 [1, 2, 3, 4, 5, 6, 7, 8]
 
 
